@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=y4_YQjfOsDo&list=PL3MmuxUbc_hIhxl5Ji
 code:
   - label: Test script
     path: code/test.py
+prev_url: 04-preparing-code.md
+next_url: 06-creating-lambda.md
 ---
 # Preparing a Docker image
 
@@ -185,7 +187,7 @@ AWS Lambda.
 
 ## Notes
 
-Refer to [updates.md](updates.md) for info on running TF lite
+Refer to [updates.md](10-updates.md) for info on running TF lite
 in 2024. 
 
 ### Using `pip install` for TF-Lite binaries
